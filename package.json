@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "simple_rsa",
+  "version": "1.0.0",
+  "description": "A simplistic Node.js implementation of RSA for learning puurposes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Denys Dovhan <email@denysdovhan.com> (http://denysdovhan.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "big-integer": "^1.6.26"
+  }
+}
