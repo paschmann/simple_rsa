@@ -1,8 +1,2 @@
-.DS_Store
-npm-debug.log
+.gitignore
 node_modules
-
-# editors
-.idea
-*.swp
-*.iml
