@@ -1,6 +1,6 @@
 <h1>A simplistic Node.js implementation of RSA encryption/decryption</h1>
 
-This is a basic and simplistic implementation of RSA in JS which used to understand the implementation/math required for encryption/decryption and opportunities for hacking RSA using Quantum Computing.
+This is a basic and simplistic implementation of RSA in JS which I used to gain an understanding of the implementation & math required for encryption/decryption and opportunities for hacking RSA using Quantum Computing.
 
 <u>RSA in General</u>
 
