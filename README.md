@@ -2,11 +2,11 @@
 
 This is a basic and simplistic implementation of RSA in JS which I used to gain an understanding of the implementation & math required for encryption/decryption and opportunities for hacking RSA using Quantum Computing.
 
-<u>RSA in General</u>
+<b>RSA in General</b>
 
 If you are looking for a nice article on RSA and a small practical example, this might be helpful [https://simple.wikipedia.org/wiki/RSA_algorithm](https://simple.wikipedia.org/wiki/RSA_algorithm)
 
-<u>Hacking RSA using Prime Number Factorization</u>
+<b>Hacking RSA using Prime Number Factorization</b>
 
 Hacking RSA uses the numeric public exponent from the public key and tries to calculate its largest common multiple factors (p and q) - from those two numbers you can calculate the Private Key. Using traditional computing to hack "small" RSA public keys can be done with a few modern algorithms, including the currently fastest General Number Field Sieve.
 
